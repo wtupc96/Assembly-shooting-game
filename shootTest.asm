@@ -8,7 +8,7 @@ DATAS SEGMENT
 	PROMPT1 DB 'score:$'
 	PROMPT2 DB 'time:$'
 	m4 db ?
-	CHARACTOR DB 1
+	CHARACTOR DB 18
 	X DB ?
 	Y DB ?
 	COUNT DB 15
